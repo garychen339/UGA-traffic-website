@@ -1,1 +1,1 @@
-# UGAt-traffic-website
+# UGA-traffic-website
